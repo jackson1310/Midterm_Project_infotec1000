@@ -1,11 +1,11 @@
 
 
- <! doctype html>
+ <!doctype html>
  <html>
 
  <head>
   <meta charset="utf-8">
-  <title> My Portfolio <title>
+  <title> My Portfolio </title>
   <meta name="description" content="A website I built containing my work">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
  </head>
@@ -21,6 +21,7 @@
      <li>
       <a href="#projects">Projects</a>
      </li>
+     <li>
       <a href="/about">About</a>
      </li>
      <li>
