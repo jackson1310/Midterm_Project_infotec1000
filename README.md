@@ -63,6 +63,7 @@
 
   </main>
   <footer>
+    <h3>Contact</h3>
     <ul>
       <li>
         <p>
